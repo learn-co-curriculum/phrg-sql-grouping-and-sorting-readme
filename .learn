@@ -4,3 +4,5 @@ languages:
   - sql
 resources:
   - 0
+
+parent_template: git@github.com:learn-co-curriculum/sql-grouping-and-sorting-readme.git

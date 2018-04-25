@@ -249,4 +249,4 @@ The difference between the `HAVING` and `WHERE` clause in SQL is that the `WHERE
 
 * [Video Review- SQL Joins Overview](https://www.youtube.com/watch?v=qfB1MRnzk4g) 
 
-<p data-visibility='hidden'>View <a href='https://learn.co/lessons/sql-grouping-and-sorting-readme' title='Grouping and Sorting Data'>Grouping and Sorting Data</a> on Learn.co and start learning to code for free.</p>
+<p data-visibility='hidden'>PHRG Grouping and Sorting Data</p>
